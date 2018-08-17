@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "extended-argon-213022",
+  "private_key_id": "34c4e622828cf3f2608ef18d254c122282956170",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJL+OCOvctQhlD\nT0C4GsR3ntRd+TuJNpJRr1VGSTMgO4sS1gvuuBegYNjwRA8Yz6O/HXUZflBbLJFz\nQ1YfVHuln7l5OJUIbgfD7pP69O1rJKHTUzYQhsDiPiUddsw9SPxIVL9/CLbYBVab\n8FASSsu828tn9oHChopohcAsRLRcW8303RpdyPqmH+2FKOpjbo/jTKayV/bhsljK\nHMvebuC1ZhVygcKs2UYZJLhCDj2eFHeebp95AvjrJ+zb1R7vYukMHOmoBcfS775h\n9jxWRK4sborocTBMzlclz9m4sVv8MlTewlYZxN+39pWvkzooCieZXH67QJD9hvCc\nn9xsckxDAgMBAAECggEAMeFKJlkpPFLVgZ8uHBci28eIvo3S6Xeaul7epRDz+Ita\ntT5Vcge5b91jG9q75Xphjjom9L2g/aHko++vdBAVoeAic4AITzE8gqLtlHxSOsy3\nxHWug1VtkAo5WH9CLvWf+uzsF3pZHuDf8sSXjZl2vum9mhZ/YHPL8BMtLKySDQ2T\nS8b8YvPy2RSJY1r2FerUUS+EtJIwehK7YcvnvM8l96D8gLHnFlrrhouVvXN2xg3G\n+1nccHWH251P7+JjeaJEJ3LHDGivRYKzNaP8m9rABBySinHEAzVznM2pjdtTkubT\n3UIJ29mlH8xfZhWf8IV1wv+vafyCEYG60ht9m1qzxQKBgQDmmST5xNMVrK+MbPtK\nLRqQzXmO9Vjtu2dLbCoasik9tXjAHjhdbstyUzxrVQ7J47TQR4By/xa4odnEf0tE\nfYNRXONz5WL1W8ZmS3AFikKBMCfDE9bpevPppO+U44JS+49OlAXJukLx3opmmq3H\ndakghY4rj05nhU2TxAXh7vIAfQKBgQDfWVn8oQ2wJXoTwN1eh8C6Wj6bzj/8eGYM\ntG6leKPHNXrmhvkWFW3Jah2EdGtZREdr5I6nFDcJWmu2uyzqPTkoKD3zR6N7I35R\nHGPZCiRJua1siT+C0v79oP8s1k3imGi/2UCroiL67VZcFlpwSrPtdbveciEQjWkG\nclQz563bvwKBgQC0WHtxl/yaS/bzdVxGk+Xd78UtCDcnnlRXyV1YiZP1fhLU9g2R\nDRCx9eUf8GLjhGGqLvGHfncPqQ0+P2vnQd5M6L++qVzulXsiD8epnYsLrFS8nayL\n56wRQ/xXzmLjcXiPtPad4T1wGmLVgg19HElMdQdOjAJ+teOJOFp9a7n6pQKBgFvL\nRk+tBYoqrPSnZJPwaUZtxqOUbfnepdp84ajCX1WFZmCOgpsP7ZJFOaJxkpkaldwD\nEJoclc4TSofMf9Y5mV8mwudUvxzh5o2BhIv0PhvK4zrjYaXr//7Ph3CvF02U5CBN\nMuYXehb1KnQof7z9BtwGclMnRu2doNeUb4TxqCPTAoGAWD0r4+WmBNm9lq+VLDU3\nbgjyKtRM/No+IbadKUiHMLOZBs0BNNAqhgcX9fuq154ZiEW8jrc7A7uKaFGY9PJJ\naJMbkV4a5KDRPlO82VnewQp2Wfy3rwEo7nAvW26aCD2aL7tXTjePrWsQdGtjKoUs\nosxsr564mhMWfEb8nBmSd7E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "owner-902@extended-argon-213022.iam.gserviceaccount.com",
+  "client_id": "103973201279393083060",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/owner-902%40extended-argon-213022.iam.gserviceaccount.com"
+}
